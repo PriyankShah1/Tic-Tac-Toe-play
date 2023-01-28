@@ -178,6 +178,7 @@
 
   .container {
     flex-direction: column;
+     height:100%;
   }
 
   .left-text {
